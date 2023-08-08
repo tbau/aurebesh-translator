@@ -6,4 +6,4 @@ Aurebesh is a language that is used in the Star Wars universe. This project atte
 
 This project uses tensorflow with NodeJS.
 
-![Alt text](aurebesh-example.png?raw=true "Aurebesh Text")
+<img src="aurebesh-example.png" width="400">
